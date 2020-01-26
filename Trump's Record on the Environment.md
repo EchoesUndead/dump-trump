@@ -1,6 +1,6 @@
 # Trump's record on the Environment
 
-Any help updating this is welcomed! See the [repository README](README.md) for help on how to contribute.
+Any help updating this is welcomed! See the [repository README](https://github.com/EchoesUndead/dump-trump/blob/master/README.md#contributing) for help on how to contribute.
 
 Original Source: [Climate Deregulation Tracker](https://climate.law.columbia.edu/climate-deregulation-tracker)
 
