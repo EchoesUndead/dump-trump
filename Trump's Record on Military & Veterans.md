@@ -180,15 +180,13 @@ He used troops as a political prop by sending them on a phantom mission to the b
 
 He stopped using troops as a political prop immediately after the election. However, the troops remained in muddy camps on the border
 
-### reported October 7, 2018
+### October 7, 2018
 
 Trump changed the GI Bill through his Forever GI Act, causing the VA to miss veteran benefits, including housing allowances. This caused many veterans to run out of food and rent. "You can count on us to serve, but we can't count on the VA to make a deadline," one veteran said.
 
 ### July 5, 2018
 
-Trump doubled the rejection rate for veterans requesting family deportation protections
-
-### 11,800 military families face this problem as of April 2018
+Trump doubled the rejection rate for veterans requesting family deportation protections (11,800 military families face this problem as of April 2018)
 
 Trump deported active-duty spouses
 
@@ -212,9 +210,9 @@ He deported veterans
 
 ### Oct 2016
 
-He said he knows more about ISIS than American generals
+He said he knows more about ISIS than American generals (note: yes, he said it's 'because they aren't strong.' He didn't say it's 'because they're weak.' This distinction is important because of Snopes)
 
-### note: yes, he said it's 'because they aren't strong.' He didn't say it's 'because they're weak.' This distinction is important because of Snopes
+### October 3, 2016
 
 He said vets get PTSD because they aren't strong (Oct 3, 2016)
 
