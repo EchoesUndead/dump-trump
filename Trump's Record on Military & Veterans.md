@@ -1,6 +1,6 @@
 # Trump's record on Military & Veterans
 
-Any help updating this is welcomed! See the [repository README](README.md) for help on how to contribute.
+Any help updating this is welcomed! See the [repository README](https://github.com/EchoesUndead/dump-trump/blob/master/README.md#contributing) for help on how to contribute.
 
 Original Source: [myusernameiscool1234](https://www.reddit.com/user/myusernameiscool1234/)
 
