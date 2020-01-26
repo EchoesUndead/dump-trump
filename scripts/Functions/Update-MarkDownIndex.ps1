@@ -37,8 +37,9 @@ function Update-MarkDownIndex {
         $Index_Found = $false
         $Index_Removed = $false
         foreach ($Line in $FileText) {
-            if ($Index_Removed -eq $false) {
-
+            if ($Index_Found -eq $false) {
+                if ($Line.length -ge 8) {
+                }
             } else {
 
             }
